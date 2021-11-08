@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "firstName": "Ritu",
+      "lastName": "Dobhal",
+      "email": "adminuser@yopmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ]
+}
